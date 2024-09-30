@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Nutri-Bite",
+      "imageSrc": "projects/NutriImage.jpg",
+      "description": "Built a personalized food recommendation platform  based on health data and dietary preferences of the user.",
+      "skills": ["Machine Learning", "Flask", "Web Dev"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ishanpeshkar/Nutribite---Personalized-Food-Recommendation-App-"
+    },
+    {
+      "title": "Climate-Cast",
+      "imageSrc": "projects/ClimaCast.jpg",
+      "description": "Developed a weather application by integrating third-party APIs for accurate, real-time weather updates from over 200 countries.",
+      "skills": ["ReactJS", "API", "Web Dev"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ishanpeshkar/Climate-Cast"
+    },
+    {
+      "title": "Tuition Website",
+      "imageSrc": "projects/project.png",
+      "description": "Created a website for the local business running classes for school students.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ishanpeshkar/Smaran-Coaching-Classes-Website"
+    }
+  ]

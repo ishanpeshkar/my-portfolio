@@ -1,0 +1,31 @@
+[
+    
+    {
+      "role": "Co-Lead, PR and Outreach,",
+      "organisation": "Android Club",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Securing sponsors and promotions.", "Inviting Guest Speakers and managing the event flow."],
+      "imageSrc": "history/androidClub.png"
+    },
+    {
+      "role": "Team Member,",
+      "organisation": "Fin-Tech Club",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": ["Managing Events.", "Increased Participation for various events."],
+      "imageSrc": "history/Fintech.jpeg"
+    },
+    {
+      "role": "Equity Markets Analyst,",
+      "organisation": "Finlatics",
+      "startDate": "Mar, 2022",
+      "endDate": "May, 2022",
+      "experiences": [
+        "Maintained and managed virtual portfolio.",
+        "Gained insights of Market Fundamentals."
+      ],
+      "imageSrc": "history/Finlatics.jpeg"
+    }
+    
+]
